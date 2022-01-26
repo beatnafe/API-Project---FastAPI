@@ -8,6 +8,7 @@ SQL Alchemy was used for the database
  
 
 Functionalities: 
+
 Student - 
 Create a new student Profile, 
 Get a specific student based on a student ID, 
