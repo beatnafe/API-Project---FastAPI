@@ -16,7 +16,7 @@ Get all students that are enrolled,
 Updated information in a student profile, 
 Delete an account of a student 
 
-Course -  
+Course - 
 Create Course, 
 Get a specific course based on a course id, 
 Get all courses, 
